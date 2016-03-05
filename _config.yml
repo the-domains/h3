@@ -1,14 +1,14 @@
 layout_spectrum: 0.4946294
+typography_spectrum: 0.8995703
 color:
   saturation: 0.3625134
   lightness: 0.5730397
   brandStrength: 0.744898
   brandColors:
-    - '#4B202F'
-    - '#FBB4CF'
-    - '#FDFCFC'
-    - '#A36577'
-    - '#FD7742'
+    - '#FBFBFC'
+    - '#010103'
+    - '#889B9B'
+    - '#025C30'
+    - '#02B442'
   rhythmicContrast: 0.5580022
-typography_spectrum: 0.8995703
-name: H3
+name: HHH
