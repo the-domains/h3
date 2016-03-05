@@ -1,14 +1,26 @@
-layout_spectrum: 0.4946294
-typography_spectrum: 0.8995703
 color:
   saturation: 0.3625134
-  lightness: 0.5730397
   brandStrength: 0.744898
+  rhythmicContrast: 0.5580022
   brandColors:
     - '#FBFBFC'
     - '#010103'
     - '#889B9B'
     - '#025C30'
     - '#02B442'
-  rhythmicContrast: 0.5580022
+  lightness: 0.5730397
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4946294
+typography_spectrum: 0.8995703
 name: HHH
